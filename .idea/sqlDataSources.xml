@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="290f9862-b7dd-4bc4-abde-12aa807273bd" name="flight_repository@localhost Mapping">
+      <data-sources db="348bdfda-39e6-4655-b50f-d36a4c110d99" />
+      <scope>
+        <node kind="schema" qname="flight_repository" />
+      </scope>
+    </mapping>
+  </component>
+</project>
